@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre mí
 - 🌱 Estoy estudiando Dessarollo de Aplicaciones Multiplataforma
-- 📫 Cómo contactarme: [luciuss0444@gmail.com](mailto:luciuss0444@gmail.com) [luciuss0444@proton.me](mailto:luciuss0444@proton.me)
+- 📫 Cómo contactarme: [luciuss0444@gmail.com](mailto:luciuss0444@gmail.com) [luciuss04@proton.me](mailto:luciuss04@proton.me)
 - ⚡ Dato curioso: El primer “bug” informático real fue literalmente un insecto 🐛: una polilla encontrada dentro de un ordenador en 1947 por Grace Hopper.
 
 ## 🛠️ Tecnologías y herramientas
