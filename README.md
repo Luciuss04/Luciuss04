@@ -12,9 +12,6 @@
 - **Frameworks:** React, Node.js...
 - **Herramientas:** Git, Docker, VS Code...
 
-## 📊 Estadísticas de GitHub
-![Estadísticas de Luciuss04](https://github-readme-stats.vercel.app/api?username=Luciuss04&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciuss04&layout=compact&theme=radical)
 
 ---
 ⭐️ ¡Gracias por visitar mi perfil!
