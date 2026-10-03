@@ -14,13 +14,12 @@
 <p align="center">
   <a href="mailto:luciuss0444@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="mailto:luciuss4@proton.me"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Luciuss04&style=for-the-badge&color=7aa2f7&label=VISITAS" alt="Visitas"/>
+  <a href="https://github.com/Luciuss04?tab=followers"><img src="https://img.shields.io/github/followers/Luciuss04?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=7aa2f7" alt="Seguidores"/></a>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
-
 
 ```js
 const luciuss04 = {
@@ -84,5 +83,5 @@ const luciuss04 = {
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=120&section=footer&text=¡Gracias%20por%20visitar!&fontSize=24&fontColor=ffffff&fontAlignY=70" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=120&section=footer&text=%C2%A1Gracias%20por%20visitar!&fontSize=24&fontColor=ffffff&fontAlignY=70" alt="footer"/>
 </p>
